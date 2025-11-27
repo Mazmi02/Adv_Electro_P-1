@@ -1926,7 +1926,6 @@
   { "en": "Apa Itu Konstanta Propagasi Gelombang?", "id": "Ukuran Perubahan Amplitudo Fasa." },
   { "en": "Apa Itu Attenuation Constant Alpha?", "id": "Redaman Sinyal Per Meter." },
   { "en": "Apa Itu Phase Constant Beta?", "id": "Pergeseran Fasa Per Meter." },
-  { "en": "Apa Kepanjangan VSWR Transmisi?", "id": "Voltage Standing Wave Ratio." },
   { "en": "Apa Nilai VSWR Jika Match Sempurna?", "id": "Satu Banding Satu." },
   { "en": "Apa Nilai VSWR Jika Open Circuit?", "id": "Tak Terhingga." },
   { "en": "Apa Rumus Koefisien Refleksi Gamma?", "id": "Zl Min Zo Bagi Zl Plus Zo." },
@@ -2082,7 +2081,6 @@
   { "en": "Apa Pengaruh Qg Besar?", "id": "Switching Lebih Lambat." },
   { "en": "Apa Fungsi Flyback Diode Relay?", "id": "Buang Arus Balik Kumparan." },
   { "en": "Apa Nama Lain Flyback Diode?", "id": "Freewheeling Diode." }
-
 
 
         ];
